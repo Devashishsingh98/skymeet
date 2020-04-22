@@ -20,6 +20,12 @@ div>a>img:hover{
     letter-spacing: 1.5rem ;
     text-decoration: underline;
 }
+#text2{
+    font-family: 'Merriweather', serif;
+    color: tomato;
+    font-size: 1.5rem;
+    text-decoration: underline;
+}
 #contbg{
     background-color: plum !important;
 }
